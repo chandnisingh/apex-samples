@@ -11,6 +11,3 @@ node_modules/
 *.iml
 .idea/
 *~
-x-java
-nb-configuration.xml
-gateway/src/main/htdocs
